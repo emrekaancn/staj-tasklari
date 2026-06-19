@@ -1,14 +1,7 @@
-# Task: useMemo ile Mock Data Store Ornegi
+# Staj Tasklari
 
-React ve Vite kullanilarak hazirlanmistir. Veritabani yerine mock data kullanilir.
+Staj suresince hazirlanan projeler bu repoda ayri klasorlerde tutulur.
 
-- `useMe`: Aktif kullanici bilgisini verir.
-- `useTableStore`: Gorevleri arama metnine gore filtreler.
-- `useMemo`: Filtrelenmis gorev listesini hesaplar.
+## Projeler
 
-## Calistirma
-
-```bash
-npm install
-npm run dev
-```
+- [`usememo-task`](./usememo-task): React `useMemo`, mock data, `useMe` ve `useTableStore` ornegi.
